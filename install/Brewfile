@@ -1,4 +1,3 @@
-tap "homebrew/bundle"
 tap "lotyp/homebrew-formulae"
 
 # core/dotfiles
@@ -11,6 +10,11 @@ brew "stow"
 brew "thefuck"
 brew "tmux"
 brew "topgrade"
+brew "podman"
+brew "tailscale"
+brew "mas"
+brew "gh"
+brew "git"
 
 # fs/network
 brew "bat"
